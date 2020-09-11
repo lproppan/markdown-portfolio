@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- chocolate
+  - dark
+  - milk
+  - white
+- wine
+  - red
+  - white
